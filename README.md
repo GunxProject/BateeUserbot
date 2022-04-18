@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="./resources/extras/Indomiepurple.gif" width="35px">𝕴𝖓𝖉𝖔𝖒𝖎𝖊𝖀𝖘𝖊𝖗𝖇𝖔𝖙<img src="./resources/extras/Indomiepurple.gif" width="35px"></h1>
+<h1 align="center"><img src="./resources/extras/Indomiepurple.gif" width="20px"> Batee Userbot <img src="./resources/extras/Indomiepurple.gif" width="20px"></h1>
 
 <p align="center">
     <a href="https://github.com/indomiegorengsatu/IndomieUserbot/commits/IndomieUserbot"><img src="https://img.shields.io/github/last-commit/indomiegorengsatu/IndomieUserbot?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
@@ -36,7 +36,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
    Metode Deploy
 </h2>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/IndomieGorengSatu/IndomieUserbot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank""/</a>  
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/GunxProject/BateeUserbot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank""/</a>  
 
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=JiRsb25nIDIwMDkw"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-pink?style=for-the-badge&logo=telegram"width="200""/</a> </p> 
 
