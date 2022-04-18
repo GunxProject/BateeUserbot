@@ -32,8 +32,8 @@ from userbot import (
 )
 from userbot.modules.gcast import GCAST_BLACKLIST as GBL
 
-EOL = "EOL\nIndomieUserBot v{}, Copyright © 2021-2022 Indomie• <https://github.com/indomiegorengsatu>"
-MSG_BLACKLIST = "MAKANYA GA USAH BERTINGKAH GOBLOK, USERBOT {} GUA MATIIN NAJIS BANGET DIPAKE BOCAH KONTOL KEK LU."
+EOL = "EOL\nIndomieUserBot v{}, Copyright © 2022-2023 BateeUserbot• <https://github.com/Ghajajbss>"
+MSG_BLACKLIST = "MAKANYA GA USAH BERTINGKAH GOBLOK, USERBOTNYA GUA MATIIN, NAJIS BANGET DIPAKE BOCAH KEK LU."
 
 
 async def memek_client(client):
