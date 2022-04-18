@@ -83,14 +83,14 @@ async def get_readable_time(seconds: int) -> str:
 async def indomie(pong):
     uptime = await get_readable_time((time.time() - StartTime))
     start = datetime.now()
-    await pong.edit("__Sabar goblok.__")
-    await pong.edit("__Sabar goblok..__")
+    await pong.edit("__Sabar Bang.__")
+    await pong.edit("__Sabar napaaaa..__")
     await pong.edit("__Sabar goblok...__")
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     user = await pong.client.get_me()
     await pong.edit(
-        f"**╼══❃ ɪɴᴅᴏᴍɪᴇᴜꜱᴇʀʙᴏᴛ ❃══╾ **\n\n"
+        f"** Batee Musik indonesia **\n\n"
         f"** ▹  Pɪɴɢᴇʀ  : ** "
         f"`%sms` \n"
         f"** ▹  Uᴘᴛɪᴍᴇ  : ** "
@@ -103,11 +103,11 @@ async def indomie(pong):
 async def redis(pong):
     uptime = await get_readable_time((time.time() - StartTime))
     start = datetime.now()
-    await pong.edit("Assalamualaikum..")
+    await pong.edit("Horasssss..")
     await asyncio.sleep(1)
     end = datetime.now()
     duration = (end - start).microseconds / 1000
-    await pong.edit(f"**KONTOOLLLL!!**\n**KEKUATAN KONTOL** : `%sms`\n**DURASI KONTOL** : `{uptime}🕛`" % (duration))
+    await pong.edit(f"**Horassssss!!**\n**KEKUATAN Horasss** : `%sms`\n**DURASI Horassss** : `{uptime}🕛`" % (duration))
 
 
 @indomie_cmd(pattern="sping$")
@@ -117,7 +117,7 @@ async def redis(pong):
     await pong.edit("**✲**")
     await pong.edit("**✲✲**")
     await pong.edit("**✲✲✲**")
-    await pong.edit("__KONTOL__")
+    await pong.edit("__BATAK ITU KEREN__")
     await pong.edit("🍾")
     end = datetime.now()
     duration = (end - start).microseconds / 1000
@@ -125,7 +125,7 @@ async def redis(pong):
     await pong.edit(
         f"**[{user.first_name}](tg://user?id={user.id})**        \n"
         f"**➾Kecepatan : ** '%sms'  \n"
-        f"**➾Branch : ** 'IndomieUserbot` \n" % (duration)
+        f"**➾Grup Batak : ** '@Bataks` \n" % (duration)
     )
 
 
@@ -163,7 +163,7 @@ async def redis(pong):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await pong.edit(
-        f"**♨ɪɴᴅᴏᴍɪᴇᴜꜱᴇʀʙᴏᴛ**\n"
+        f"**Batee Musik Indonesia**\n"
         f"➾ __Signal__    __:__ "
         f"`%sms` \n"
         f"➾ __Uptime__ __:__ "
@@ -188,7 +188,7 @@ async def redis(pong):
     duration = (end - start).microseconds / 1000
     user = await pong.client.get_me()
     await pong.edit(
-        f"**♨ɪɴᴅᴏᴍɪᴇᴜꜱᴇʀʙᴏᴛ**\n\n"
+        f"**Batee Musik Indonesia**\n\n"
         f"** ▹  Sɪɢɴᴀʟ   :** "
         f"`%sms` \n"
         f"** ▹  Uᴘᴛɪᴍᴇ  :** "
