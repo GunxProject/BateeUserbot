@@ -26,7 +26,7 @@ DEF_UNAPPROVED_MSG = (
     "• Jangan Spam Chat atau kamu akan otomatis diblokir.\n"
     "╔═════════════════════╗\n"
     "┣[• 𝐁𝐎𝐓 𝐌𝐄𝐒𝐒𝐀𝐆𝐄\n"
-    "┣[• 𝐁𝐘 IɴᴅᴏᴍɪᴇUꜱᴇʀʙᴏᴛ\n"
+    "┣[• 𝐁𝐘 Batee Musik Indonesia\n"
     "╚═════════════════════╝")
 
 
@@ -244,7 +244,7 @@ async def approvepm(apprvpm):
         return await edit_delete(apprvpm, "**Pesan Anda Sudah Diterima**")
 
     await edit_delete(
-        apprvpm, f"`Hai` [{name0}](tg://user?id={uid}) `Pesan Lu udah di terima ya babi!!`", 5
+        apprvpm, f"`Hai` [{name0}](tg://user?id={uid}) `Pesan Lu udah di terima ya !!`", 5
     )
 
 
